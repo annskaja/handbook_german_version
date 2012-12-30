@@ -5,6 +5,13 @@ https://cryptoparty.org/wiki/CryptoPartyHandbook
 
 **Please fork this repo. Add and edit content. Send back pull requests.**
 
+WICHTIG!
+
+Wenn ihr zum Repository beitragen wollt, dann brancht das Kapitel, an dem ihr arbeitet,
+vom develop-Branch und mergt, wenn ihr fertig seid. Mehr Info zum Prinzip: 
+
+http://nvie.com/posts/a-successful-git-branching-model/
+
 Comments and questions about handbook content are more than welcome, please submit them using new issues and pull requests.
 
 Peer Review Process
