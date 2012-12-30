@@ -1,4 +1,4 @@
-The CryptoParty Handbook
+The CryptoParty Handbook - German version
 ========================
 
 https://cryptoparty.org/wiki/CryptoPartyHandbook
