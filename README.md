@@ -5,7 +5,7 @@ https://cryptoparty.org/wiki/CryptoPartyHandbook
 
 **Please fork this repo. Add and edit content. Send back pull requests.**
 
-WICHTIG!
+WICHTIG! WICHTIG!
 
 Wenn ihr zum Repository beitragen wollt, dann brancht das Kapitel, an dem ihr arbeitet,
 vom develop-Branch und mergt, wenn ihr fertig seid. Mehr Info zum Prinzip: 
